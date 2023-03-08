@@ -1,0 +1,4 @@
+<view class="container">
+    <include src="/pages/result/result.axml" />
+    <include src="/pages/keyboard/keyboard.axml" />
+</view>

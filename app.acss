@@ -1,0 +1,10 @@
+page {
+  flex: 1;
+  display: flex;
+  background: linear-gradient(
+      90deg,
+      #ce9586 0%,
+      #98c1d9 150%
+    );
+    text-align: center;
+}
